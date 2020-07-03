@@ -47,7 +47,7 @@
       }
     });
 
-    resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
+    resultsContainer.innerHTML = `${numCorrect} dari ${myQuestions.length}`;
   }
 
   const quizContainer = document.getElementById('quiz');
