@@ -3,6 +3,8 @@ body{
    
 }
 
+/* Halaman Pembuka */
+
 #Welcome{
     font-family: 'Nunito', sans-serif;
     color: white;
@@ -72,6 +74,28 @@ footer{
     color: white;
     text-align: center;
     padding-top: 175px;
+    text-shadow: 3px 3px #0e0101;
+}
+
+/* Halaman Kuis */
+
+#Kuis{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 50px;
+    text-shadow: 3px 3px #0e0101;
+}
+
+
+
+/* Halaman Hasil */
+
+#Hasil{
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 50px;
     text-shadow: 3px 3px #0e0101;
 }
 
